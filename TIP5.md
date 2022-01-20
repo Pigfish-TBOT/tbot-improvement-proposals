@@ -12,6 +12,4 @@ Signed off by @Z(team or authorized user) YYYY-MM-DD.
 
 Sealed by @A(The Chosen 9) YYYY-MM-DD.
 
-Delivered by TBOT-project YYYY-MM-DD.
-
-[TBOT Project](https://tbot.fi)
+Delivered by [TBOT Project](https://tbot.fi) YYYY-MM-DD.
