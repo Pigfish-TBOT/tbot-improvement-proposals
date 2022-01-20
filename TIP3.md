@@ -8,7 +8,7 @@ Approved by @zodiacgirl 2022-01-19.
 
 ✅ Completed by @X(team or authorized user) YYYY-MM-DD.
 
-Signed off by @Z(team or authorized user) YYYY-MM-DD.
+Signed by @Z(team or authorized user) YYYY-MM-DD.
 
 Sealed by @A(The Chosen 9) YYYY-MM-DD.
 
