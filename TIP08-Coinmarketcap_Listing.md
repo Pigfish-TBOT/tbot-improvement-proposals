@@ -1,4 +1,4 @@
-**Obtain Coinmarketcap listing**
+**TIP08: Obtain Coinmarketcap listing**
 
 💡 Proposed by @tbothack 2022-01-20.
 
