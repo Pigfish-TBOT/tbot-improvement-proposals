@@ -1,4 +1,4 @@
-**Change TBOT logo**
+**TIP07: Change TBOT logo**
 
 💡 Proposed by @tbothack 2022-01-19.
 
