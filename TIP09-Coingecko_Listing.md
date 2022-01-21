@@ -1,4 +1,4 @@
-**TIP09: Obtain Coingecko listing**
+**TIP09: Obtain Coingecko listing.**
 
 💡 Proposed by @tbothack 2022-01-20.
 
