@@ -1,4 +1,4 @@
-**Create TBOT Polygon Network token for The Banks Of Tomorrow Liquidity Factory.**
+**TIP03: Create TBOT Polygon Network token for The Banks Of Tomorrow Liquidity Factory.**
 
 💡 Proposed by @tbothack 2022-01-12.
 
