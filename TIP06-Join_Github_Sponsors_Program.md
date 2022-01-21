@@ -1,4 +1,4 @@
-**Complete Github Sponsors program invite application https://github.com/sponsors/TBOT-Project/dashboard**
+**TIP06: Complete Github Sponsors program invite application https://github.com/sponsors/TBOT-Project/dashboard**
 
 💡 Proposed by @tbothack 2022-01-19.
 
