@@ -1,4 +1,4 @@
-**Add TBOT BSC (Binance Smart Chain) token to TBOTX (TBOT-powered Exchange).**
+**TIP02: Add TBOT BSC (Binance Smart Chain) token to TBOTX (TBOT-powered Exchange).**
 
 💡 Proposed by @tbothack 2022-01-12.
 
