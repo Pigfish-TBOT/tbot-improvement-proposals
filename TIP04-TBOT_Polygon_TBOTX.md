@@ -1,4 +1,4 @@
-**Add TBOT Polygon Network token to TBOTX (TBOT-powered Exchange).**
+**TIP04: Add TBOT Polygon Network token to TBOTX (TBOT-powered Exchange).**
 
 💡 Proposed by @tbothack 2022-01-12.
 
