@@ -1,4 +1,4 @@
-**Get TBOT listed on Bittrex exchange**
+**TIP10: Get TBOT listed on Bittrex exchange.**
 
 💡 Proposed by @tbothack 2022-01-20.
 
