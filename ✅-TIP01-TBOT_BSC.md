@@ -1,4 +1,4 @@
-**Create TBOT BSC (Binance Smart Chain) token for The Banks Of Tomorrow Liquidity Factory.**
+**TIP01: Create TBOT BSC (Binance Smart Chain) token for The Banks Of Tomorrow Liquidity Factory.**
 
 💡 Proposed by @JEstradaTbot 2022-01-12.
 
