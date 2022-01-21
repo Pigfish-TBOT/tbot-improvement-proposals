@@ -6,7 +6,7 @@
 
 🔥 Approved by @zodiacgirl 2022-01-19.
 
-✅ Completed by @tbothack 2022-01-20.
+✅ Completed by @tbothack 2022-01-20: https://github.com/TBOT-Project/tbot-polygon-token
 
 🖊️ Signed by @Z(team or authorized user) YYYY-MM-DD.
 
