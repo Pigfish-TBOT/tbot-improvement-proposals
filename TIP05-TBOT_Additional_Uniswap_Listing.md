@@ -1,4 +1,4 @@
-**Get TBOT listed on 1 of the Uniswap lists, other than current Kleros listing.**
+**TIP05: Get TBOT listed on 1 of the Uniswap lists, other than current Kleros listing.**
 
 💡 Proposed by @tbothack 2022-01-19.
 
