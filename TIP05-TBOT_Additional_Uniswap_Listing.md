@@ -2,7 +2,7 @@
 
 💡 Proposed by @tbothack 2022-01-19.
 
-⚽ Assigned to @X(team or authorized user) YYYY-MM-DD.
+⚽ Assigned to @ZodiacGirl 2022-01-22.
 
 🔥 Approved by @Y(team or authorized user) YYYY-MM-DD.
 
