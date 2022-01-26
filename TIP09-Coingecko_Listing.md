@@ -6,6 +6,8 @@
 
 🔥 Approved by @germanllop 2022-01-20.
 
+**Status update Mon. Jan. 24, 2022: Listing submission process underway**
+
 ✅ Completed by @X(team or authorized user) YYYY-MM-DD.
 
 🖊️ Signed off by @Z(team or authorized user) YYYY-MM-DD.
