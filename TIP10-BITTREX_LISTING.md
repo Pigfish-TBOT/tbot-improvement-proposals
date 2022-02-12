@@ -1,5 +1,7 @@
 **TIP10: Get TBOT listed on Bittrex exchange.**
 
+🏦 *Bounty: 100 TBOT*
+
 💡 Proposed by @tbothack 2022-01-20.
 
 ⚽ Assigned to @Designs11 2022-01-20.
