@@ -1,3 +1,6 @@
+**TIP04: TBOT Binance Listing.**
+
+🏦 *Bounty: 100 TBOT*
 
 💡 Proposed by @tbothack 2022-01-19.
 
