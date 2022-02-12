@@ -1,5 +1,7 @@
 **TIP08: Obtain Coinmarketcap listing.**
 
+🏦 *Bounty: 100 TBOT*
+
 💡 Proposed by @tbothack 2022-01-20.
 
 ⚽ Assigned to @Designs11 2022-01-20.
