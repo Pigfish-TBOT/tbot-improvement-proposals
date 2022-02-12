@@ -1,5 +1,7 @@
 **TIP02: Add TBOT BSC (Binance Smart Chain) token to TBOTX (TBOT-powered Exchange).**
 
+🏦 *Bounty: 100 TBOT*
+
 💡 Proposed by @tbothack 2022-01-12.
 
 ⚽ Assigned to @tbothack 2022-01-17.
