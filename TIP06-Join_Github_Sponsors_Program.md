@@ -1,8 +1,10 @@
 **TIP06: Complete Github Sponsors program invite application https://github.com/sponsors/TBOT-Project/dashboard**
 
+🏦 *Bounty: 100 TBOT*
+
 💡 Proposed by @tbothack 2022-01-19.
 
-⚽ Assigned to @tbothack 2022-01-19.
+⚽ Assigned to @tbothack 2022-01-19. + @germanllop 2022-02-11.
 
 🔥 Approved by @germanllop 2022-01-19.
 

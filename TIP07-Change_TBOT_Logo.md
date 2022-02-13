@@ -1,5 +1,7 @@
 **TIP07: Change TBOT logo.**
 
+🏦 *Bounty: 100 TBOT*
+
 💡 Proposed by @tbothack 2022-01-19.
 
 ⚽ Assigned to @KaiJasmine 2022-01-19.
